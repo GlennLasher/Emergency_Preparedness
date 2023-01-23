@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T16:29:20-05:00
+
+====== Offline resources ======
+Created Tuesday 27 December 2022
+
+It is a given that printed books, etc. remain available in cases where you are not able to get online.
+
+Books, guides, etc. that you have downloaded in PDF format will remain available to you even if you are offline.
+
+However, an extremely useful resource is Wikipedia, which is online by its nature.  You can have and use Wikipedia (or rather a snapshot of it) using a tool called Kiwix, and by downloading a snapshot in the form of a .zim file.  
+
+Be aware: .zim files of Wikipedia can be quite large.  As of this writing, it is 89 GiB in one file.  A slimmed down version without pictures is 13 GiB.
+
+Kiwix is available for Linux, Windows, Mac, Android, iPhone, and also as a browser extension for Chrome, Firefox, Edge and others.  There is also a Kiwix server package that can allow you to stand up a replica of Wikipedia or other .zim files and serve them over Wi-Fi or wired LAN.
+
+[[https://www.kiwix.org/en/download/|Kiwix can be downloaded here.]]
+[[https://download.kiwix.org/zim/|Zim files can be downloaded here.]]
+
+Note also that any of the .zim files can be downloaded via BitTorrent by adding .torrent to the end of the URL.

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-30T18:24:48-05:00
+
+====== Shelf Life After Best Before Date ======
+Created Friday 30 December 2022
+
+The following is a list of food items that can still be used after the "Best Before" date, taken from the Greater Pittsburgh Community Food Bank.
+
+{{./SLABB1.jpg}}
+{{./SLABB2.jpeg}}
+{{./SLABB3.png}}

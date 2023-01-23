@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T11:49:03-05:00
+
+====== Fuel ======
+Created Tuesday 27 December 2022
+
+===== Heating oil =====
+If you heat your home with oil, try to ensure that your tank is full enough to last you at least a week, or that you have at least half a tank, depending on the size of your tank and the demands of your furnace.
+
+===== Propane =====
+If you heat with propane from a permanent tank, make sure you have enough for at least a week, follow the same advise as with heating oil.
+
+If you have a propane grill, have an extra cannister on hand.  The same goes for a camp stove or other useful stand-in appliances.  
+
+If you have a generator that can run on propane, propane will be preferable to gasoline for powering it, as it is easier to store safely.  Store some extra cannisters for the generator.
+
+===== Wood/Wood pellets =====
+If you have a wood stove or pellet stove, or a wood-fired boiler, follow the same general advice as for heating oil, to have at least a week's supply on hand at any time.
+
+===== Gasoline =====
+If your car is powered by gasoline or diesel, keep it at least half full.  When it gets down to half, fill it.
+
+If you have a generator that runs on gasoline, you will likely need to store additional fuel.  Store fuel only in approved containers.  Make sure that you periodically rotate the fuel through, by using it to fuel your car, then refilling your containers.  
+
+As generators (hopefully) don't get run frequently, add fuel stabilizer to the any fuel you put into your generator.
+
+===== Electricity =====
+Elecricity can be provided by a generator, or you can store small amounts to meet small needs.  
+
+A number of manufacturers make portable power stations that consist of either a lithium-ion or lithium-iron-phospate batteries, and include a battery charger and inverter in the package so that you can simply plug appliances into the batter pack and they will run.  Additionally, some power tool manufacturers have inverters that can run on a 40V battery pack of the sort used for lawn maintenance tools. 
+
+Generally speaking, lithium-iron-phosphate (LiFePO4) batteries have a longer useful service life (i.e. more charge cycles) than lithium-ion (Li+),  however, they are heavier.  If weight is not a concern, LiFePO4 batteries may be the better choice.  If infrequent charges are expected, then Li+ may suffice.

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-26T22:03:30-05:00
+
+====== Books and documents ======
+Created Monday 26 December 2022
+
+===== Available for download =====
+[[https://archive.org/details/military-manuals|US Military Manuals]] at archive.org
+[[https://armypubs.army.mil/|US Military Manuals]] direct from the Army
+
+===== Recommended reading =====
+Dartnell, Lewis; The Knowledge: How To Rebuild Our World From Scratch
+The Urban Farmer: Growing Food for Profit on Leased and Borrowed Land
+Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd Edition
+The Vegetable Gardener's Bible, 2nd Edition
+All New Square Foot Gardening, 3rd Edition

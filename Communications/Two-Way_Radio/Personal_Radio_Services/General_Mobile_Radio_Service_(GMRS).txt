@@ -1,0 +1,72 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-12-26T23:37:52-05:00
+
+====== General Mobile Radio Service (GMRS) ======
+Created Monday 26 December 2022
+
+The General Mobile Radio Service (GMRS) is overall the most capable of the personal radio services.  A license is required for legal operation.  The license costs $35.
+
+Some combination FRS/GMRS radios exist which may also have FRS channels 8-14.  Such radios will be constrained to using a built-in antenna and will only transmit with 500 mW on those 7 channels.
+
+Advantages:
+	Wide range of radio types available (Mobile, base, handheld)
+	Repeaters are permitted
+	High power limit on some channels
+	No limit on antenna gain
+	Can interoperate with FRS on some frequencies.
+	Generally supports CTCSS and sometimes DCS to keep radios quiet when other groups may be using the channel
+	
+Disadvantages:
+	Range may be especially limited in wooded areas due to UHF not passing through foliage easily.
+	License required
+	Radios may be expensive at times.
+	
+Mode: FM*
+	*Technically many others are legal, but only FM is common.
+
+Antenna dimensions:
+	Wavelength: 65cm
+	Quarter wave: 6"
+	Five eighths wave: 16"
+
+Power:
+	Main channels: 50 W
+	Repeater inputs: 50 W
+	Interstitials: 5 W
+	
+RF Bandwidth: 25 kHz
+
+Available channels:
+	Simplex: 15
+	Repeater: 8 pairs
+	
+Frequency listing (MHz):
+
+'''
+Main group  Repeater input
+462.5500    467.5500
+462.5750    467.5750
+462.6000    467.6000
+462.6250    467.6250
+462.6500    467.6500
+462.6750    467.6750
+462.7000    467.7000
+462.7250    467.7250
+'''
+
+
+Main group may be used for simplex communications.  Repeater inputs are for repeater operation only, with the repeater output being on the main group channel that is 5 MHz below it.  The main group can be used to interoperate with FRS on channels 15-22.
+
+'''
+Interstitial
+462.5625
+462.5875
+462.6125
+462.6375
+462.6625
+462.6875
+462.7125
+'''
+
+Interstitial channels are for simplex communications only.  They can be used to interoperate with FRS on channels 1-7.

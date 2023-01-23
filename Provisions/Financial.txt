@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T11:48:53-05:00
+
+====== Financial ======
+Created Tuesday 27 December 2022
+
+Maintaining a financial supply will mean different things to different people.  Some suggestions, from the most basic to the most extreme:
+
+* Cash
+	* Decide how much to keep on hand
+	* Divide that amount into several different storage places
+		* Put at least a $20 bill into your phone case
+	* Don't keep it all in large bills.  Have enough small bills on hand to make exact change
+* Savings
+	* If you can afford to do so, set aside some portion of your assets in a savings account.  
+	* This is not an investment; you are parking money here for easy access.
+	* Don't touch it unless you need it.
+* Precious metals
+	* Some folks also recommend storing value in precious metals.  Only do this if you are comfortable with it.
+

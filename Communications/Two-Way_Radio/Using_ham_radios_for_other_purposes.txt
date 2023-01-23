@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T18:32:02-05:00
+
+====== Using ham radios for other purposes ======
+Created Tuesday 27 December 2022
+
+Many models of ham radio are easily modified to extend their frequency coverage.  Others, particularly some Chinese brands, come out of the box with extended coverage already enabled.  A radio that has the extended range enabled is said to be open.
+
+From a technical perspective, open radios can be utilized in other services.
+
+From a legal perspective, this is not generally legal.  There are exceptions.  For instance, a JetStream JT-270M is legal to use as a business radio, if programmed correctly.
+
+I will not advise you to use a ham radio in this fashion, nor will I advise you not to.  That's a personal decision and a matter of personal responsibility.  
+
+The typical radio that you might use in this context will be one that is for the VHF high-band (for use on the 2m ham radio band), or UHF low-band (for use on the 70cm ham radio band) or both.  The 2m ham radio band is normally 144-148 MHz, however, radios like this can often be extended to 136-174 or similar.  The 70cm band is normally 420-450 MHz, however radios like this can often be extended to cover 400-512 or similar.  
+
+It is completely legal to use such a radio to monitor any frequency in its coverage range, although you should be aware that some state laws may prohibit you from doing so while in a car.  Using one of these radios to transmit on a frequency for which the radio is not properly certified is not legal, but again, whether or not you use the radio in such a fashion is up to you.  Using the radio responsibly and respectfully is likely to go unnoticed. 
+
+With all of that in mind, if you possess an open radio, it will be technically capable of operating on any frequency in its range.  You can look under the section on [[Personal Radio Services]] for frequencies that can be utilized, in which you are likely to go un-noticed.  In doing so, you will want to adhere to the technical limitations (bandwidth, power, mode) of the radio service you are using your radio in, and operate your radio in a respectful manner, in order to not draw attention to your radio's legal status, or lack thereof.
+
+Do not assume, however, that just because you do not hear anything on a channel, that the channel is not in use.  It may be occupied by a digital system or some other variety that doesn't let you hear it.  It may also simply be idle at the time you check.  Bouncing around the spectrum picking frequencies at random is playing radio roulette and you may lose.

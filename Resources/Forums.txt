@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-12-26T21:19:49-05:00
+
+====== Forums ======
+Created Monday 26 December 2022
+
+===== Reddit =====
+
+==== General preparedness ====
+[[https://www.reddit.com/r/TwoXPreppers/|Two-X Preppers]]
+[[https://www.reddit.com/r/redpreppers/|Red Preppers]]
+
+==== Sustainable gardening ====
+[[https://www.reddit.com/r/seedsaving/|Seed Saving]]
+[[https://www.reddit.com/r/seedswap/|Seed Swap]]
+[[https://www.reddit.com/r/vegetablegardening/|Vegetable Gardening]]
+[[https://www.reddit.com/r/garden_maintenance/|Garden Maintenance]]
+[[https://www.reddit.com/r/gardening/|Gardening]]
+[[https://www.reddit.com/r/OrganicGardening/|Organic Gardening]]
+
+==== First aid ====
+[[https://old.reddit.com/r/Order_Of_The_Red_Cog/|Order of the Red Cog]]

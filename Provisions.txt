@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T11:46:03-05:00
+
+====== Provisions ======
+Created Tuesday 27 December 2022
+
+Generally speaking, you will want to make sure that you have things on hand to ride out any kind of emergency that you might encounter.  For a large part, this is a matter of having extra supplies on hand, and simply rotating through them.  Keeping an organized storage space can help a great deal.
+
+Some things to think about:
+[[+Financial]]
+[[+Food]]
+[[+Fuel]]
+[[+Water]]

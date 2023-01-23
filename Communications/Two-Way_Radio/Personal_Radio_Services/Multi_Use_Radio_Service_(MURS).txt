@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-12-26T23:30:03-05:00
+
+====== Multi Use Radio Service (MURS) ======
+Created Monday 26 December 2022
+
+The Multi Use Radio Service was introduced in the early 2000's on frequencies that were commonly naively pirated.  The most common users are businesses.
+
+Advantages:
+	Relatively few users
+	Commercial-grade equipment
+	Works well in wooded areas
+	Generally supports CTCSS and sometimes DCS to keep radios quiet when other groups may be using the channel
+	
+Disadvantages:
+	No culture of interoperation
+	Few channels
+	
+Mode: FM*
+	*Technically many others are legal, but only FM is common.
+	
+Antenna dimensions:
+	Wavelength: 1.96m
+	Quarter wave: 19"
+	Five eighths wave: 48"
+
+Power: 2 W
+
+RF Bandwidth:  
+	Channels 1-3: 11.25 kHz
+	Channels 4-5: 20 kHz
+	
+Available channels: 5
+
+Frequency listing (MHz):
+
+'''
+Channel Frequency
+      1 151.820
+      2 151.880
+      3 151.940
+      4 154.570
+      5 154.600
+'''
+
+
+

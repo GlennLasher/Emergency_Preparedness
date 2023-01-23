@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-30T10:43:56-05:00
+
+====== Why the furnace needs power ======
+Created Friday 30 December 2022
+
+A modern furnace may need power for a number of reasons.
+
+First, the control system is electrical.  When the thermostat calls for heat, it does so by closing an electrical circuit, starting the furnace.
+
+A modern high-efficiency furnace, regardless of fuel, may have a draft inducer.  If it vents out of the side of the house, this is a certainty, but furnaces that vent through the roof may have one, also.
+
+If your furnace uses a spark or glowbar igniter, that needs power.  Furnaces with a standing pilot don't need power for this stage.
+
+If your furnace is oil-fired, you will need power to turn the fuel pump.
+
+You will need power to open the fuel valve.
+
+If your furnace uses a "gun" type burner, you will need to power the blower that pushes air into the combustion chamber.
+
+Finally, you will need power to turn either a blower (forced air) or a circulator pump (hydronic).  Steam boilers, however, do not need this.

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-26T21:27:23-05:00
+
+====== Video channels ======
+Created Monday 26 December 2022
+
+===== YouTube =====
+[[https://www.youtube.com/c/CityPrepping/videos|City Prepping]]
+[[https://www.youtube.com/@REDGardens|RED Gardens]]
+[[https://www.youtube.com/@SimpleGreensHydroponics|Simple Greens Hydroponics]]
+[[https://www.youtube.com/@GreenTechTown|Green Tech Town]]
+
+===== TikTok =====
+[[https://www.tiktok.com/@stateofuncertainty|State of Uncertainty]]

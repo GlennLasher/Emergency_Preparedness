@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T19:45:36-05:00
+
+====== CTCSS ======
+Created Tuesday 27 December 2022
+
+Continuous Tone Coded Squelch System (CTCSS) is a selective calling system for FM and ACSB radios that uses a continuous, low-frequency tone transmitted underneath the audio.  The low frequency makes the tag tone easy to filter out of the audio before being presented to the user.
+
+Like DCS, CTCSS can serve two purposes: to separate signals from one group of users on a channel from those signals from another group, and to prevent various forms of non-signal interference (such as electrical interference) from activating the receiver.  
+
+CTCSS is availble on a wide variety of equipment.  It sometimes has some latency in activating, and so may cut off the first syllables of a transmission, if the person speaking is not aware of the need to pause a moment before speaking.

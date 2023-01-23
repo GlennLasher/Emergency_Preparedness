@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-12-27T15:32:31-05:00
+
+====== Overview of the radio spectrum ======
+Created Tuesday 27 December 2022
+
+For general purposes, the radio spectrum is considered to be all electromagnetic radiation from 9 kHz through 3 THz.  It is divided into a number of general bands, which are then divided up into smaller bands to fulfill various needs that arise.
+
+Radio waves have two characteristics that are locked to each other: frequency and wavelength. The relationship between the two is inverse, so as frequency goes up, wavelength goes down.  The proportion factor is the speed of light, approximately 300,000,000 m/sec.
+
+The frequency of a radio wave is the number of waves that pass a point in space in one second.  A frequency of 9 kHz means that 9000 waves pass that point in space every second (from that particular source) and a frequency of 3 THz means that 3,000,000,000,000 waves (from that particular source) pass that point in space every second.  
+
+The frequency of a radio wave can be thought of as similar to the pitch of a sound wave.  Through various means, a radio receiver can isloate radio waves at or near a given frequency, and extract information that's been embedded on them, a process called modulation.
+
+The wavelength of a radio wave describes the distance between waves from a given source.  As radio waves pass a given point in space, as the wave "crests" at that point, the wavelength tells us how far away the previous wave (from that source) has traveled, and how far away the next wave is.
+
+Wavelength impacts antenna design.  Longer wavelengths require larger antennae.  Although techniques exist to shorten an antenna (called loading or tuning), they may have adverse effects on the antenna's performance.
+
+Back to the general bands.  They are as follows:
+
+* Very Long Wave (VLW) or Very Low Frequency (VLF):  9 to 30 kHz, 10 to 34 km
+* Long Wave (LW) or Low Frequency (LF): 30 to 300 kHz, 1 to 10 km
+* Medium Wave (MW) or Medium Frequency (MF): 300 kHz to 3 MHz, 100 m to 1 km 
+* Short Wave (SW) or High Frequency (HF): 3 to 30 MHz, 10 to 100 m
+* Very High Frequency (VHF): 30 to 300 MHz, 1 to 10 m
+* Ultra High Frequency (UHF): 300 MHz to 3 GHz, 10 cm to 1 m
+* Super High Frequency (SHF): 3 to 30 GHz, 1 to 10 cm
+* Extremely High Frequency (EHF): 30 to 300 GHz, 1 to 10 mm
+* Tremendously High Frequency (THF): 300 GHz to 3 THz, 100 μm to 1 mm
+
+As an extremely general rule, with many, many exceptions, lower frequencies travel farther than higher ones.  
+

@@ -1,0 +1,59 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-12-26T22:56:58-05:00
+
+====== Citizens Band (CB) ======
+Created Monday 26 December 2022
+
+CB Radio is the great-granddaddy of personal radio services.  It has an active population of users, however be aware that not everyone you encounter on the air will be a friendly.  Otherwise, here are the technical characteristics:
+
+Advantages:  
+	Potentially very long range
+	Large existing user base
+	Culture of user groups interacting with each other
+	Wide range of radio types available (Mobile, base, handheld)
+	
+Disadvantages:
+	Antennas can be quite large
+	Doesn't work well as a handheld
+	Most common mode is AM.  Most radios only operate in AM.
+	
+Modes:  AM, USB, LSB, FM
+
+Antenna dimensions:
+	Quarter wave: 9'
+	Five eighths wave: 22' 8"
+
+Power:  
+	AM: 4W carrier
+	FM: 4W TPO
+	USB, LSB: 12W PEP
+	
+RF Bandwidth:
+	AM: 8 kHz
+	FM: 10 kHz
+	USB, LSB: 4 kHz
+	
+Available channels:
+	AM, FM: 40
+	USB, LSB: 40 each*
+
+*USB and LSB  can co-exist on the same channel without interfering with each other, because they each only use half of the channel.  AM and FM use the whole channel, and so cannot coexist with each other or with USB/LSB.
+
+Frequency listing (MHz):
+
+'''
+Channel Frequency Channel Frequency Channel Frequency Channel Frequency
+      1 26.965         11 27.085         21 27.215         31 27.315
+      2 26.975         12 27.105         22 27.225         32 27.325
+      3 26.985         13 27.115         23 27.255         33 27.335
+      4 27.005         14 27.125         24 27.235         34 27.345
+      5 27.015         15 27.135         25 27.245         35 27.355
+      6 27.025         16 27.155         26 27.265         36 27.365
+      7 27.035         17 27.165         27 27.275         37 27.375
+      8 27.055         18 27.175         28 27.285         38 27.385
+      9 27.065         19 27.185         29 27.295         39 27.395
+     10 27.075         20 27.205         30 27.305         40 27.405
+'''
+
+

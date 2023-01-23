@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-30T17:41:08-05:00
+
+====== Food storage and preservation ======
+Created Friday 30 December 2022
+
+[[https://www.biancaamor.com/bbd|Shelf life of foods past their "best before" date]]
+[[+Canning resources]]

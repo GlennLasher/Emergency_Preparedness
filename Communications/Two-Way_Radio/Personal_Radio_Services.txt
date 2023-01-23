@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-12-26T22:54:53-05:00
+
+====== Personal Radio Services ======
+Created Monday 26 December 2022
+
+The FCC defines a number of different types of two-way radio services as "Personal Radio Services."  There are four that are specifically focused on voice communications via handheld transceivers (HT's or "walkie-talkies") or mobile radios.
+
+[[+Citizens Band (CB)]]
+[[+Family Radio Service (FRS)]]
+[[+General Mobile Radio Service (GMRS)]]
+[[+Multi Use Radio Service (MURS)]]

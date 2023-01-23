@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T12:33:49-05:00
+
+====== Water ======
+Created Tuesday 27 December 2022
+
+The CDC has [[https://www.cdc.gov/healthywater/emergency/creating-storing-emergency-water-supply.html|guidlines on building a water supply]].
+
+The link above will stand for now; the advice can be moved into this space at a later date.

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T19:45:43-05:00
+
+====== DCS ======
+Created Tuesday 27 December 2022
+
+Digital Coded Squelch (DCS) is a selective calling system for FM radios that uses a 23-bit code transmitted at a very slow bitrate underneath the audio.  the slow bitrate makes the digital tag low in frequency, so it is easily filtered out of the audio before being presented to the user.
+
+Like CTCSS, DCS can serve two purposes: to separate signals from one group of users on a channel from those signals from another group, and to prevent various forms of non-signal interference (such as electrical interference) from activating the receiver.  
+
+DCS has more code options available than CTCSS, activates faster than CTCSS, and can be more reliable.  However, it may not be available on some older equipment.

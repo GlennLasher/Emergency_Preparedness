@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-12-27T19:30:46-05:00
+
+====== Repeaters ======
+Created Tuesday 27 December 2022
+
+The concept behind a repeater is very simple:  A radio receiver and a radio transmitter are connected together.  When the radio receiver receives a signal, the transmitter rebroadcasts it.
+
+As a general rule, repeaters operate in FM or one of many digital modes.  
+
+When operating in FM, a repeater will generally listen on one frequency and retransmit on another.  Radios configured to use the repeater will receive on the repeater's transmit frequency and transmit on the repeater's receive frequency.
+
+The receive frequency is called the input, and the transmit frequency is called the output.
+
+A repeater may use [[CTCSS]] or [[DCS]] in order to prevent stray signals intended for repeaters in other areas from accidentally activating the repeater.
+
+For instance, if a ham radio repeater is sitting on 146.940 (the most common output frequency for a ham radio repeater), and has its input on 146.340 (the standard input for that output), then a radio that is configured to use that repeater will normally receive on 146.940, but when you push the talk button, the frequency will instantly change to 146.340 to talk to the repeater.  
+
+In cases where the repeater is difficult to hear or is having difficulty hearing you, you can sometimes listen to a nearby user by listening to the repeater input, or reach someone nearby by transmitting on the repeater output, however, such communications should be moved to another channel at the earliest opportunity.
+
+In most services in the UHF low band, the input and output frequencies are 5 MHz apart.  It may vary whether the input is above or below the output.  In GMRS, for instance, the input is always 5 MHz above the output.  In LMRS (business radios) it may be either direction.  In ham radio, the input will be above for frequencies ending in x00 or x50 and below for frequencies inding in x25 and x75, so a repeater may listen on 443.425 and transmit on 448.425, or it may listen on 449.450 and transmit on 444.450.
+
+In services in the VHF high band, the input and output frequencies are not well defined.  In ham radio usage, the input will be 0.600 MHz above the output for outputs above 147.000, and 0.600 below the output for frequencies below 147.000.  Repeaters actually //on// 147.000 may go either way, however, the two I've personally encountered (Saratoga Springs, NY and Tulsa, OK) both had the input below the output.
+
+Only ham radio permits repeaters in lower frequencies than that; those arrangements will be discussed elsewhere.
+
+Communications not involving a repeater, in which signals go directly from one radio to another, are called [[Simplex]].
+
