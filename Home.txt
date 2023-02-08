@@ -1,7 +1,23 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2022-12-26T21:17:34-05:00
 
 ====== Home ======
 Created Monday 26 December 2022
+
+This is the intro shpiel I've been trying to standardize for new members of this community.
+
+@Miss Demeanor and I are the moderators of the group; I personally believe in moderating with a light touch, but if one of us decides that a discussion is be off-topic, please abide by the decision.  We do most of our moderation out of public view, dealing directly who whatever it is that needs attention.  I have, on one occasion, made a public statement about a moderation action, but it's rare and I don't like doing that.
+
+We have a website, http://www.kc2idf.com/Emergency_Preparedness/ where you will find some information that we've gathered as a group.  We've not been at this for very long, so it's still a little sparse.  If you think of something that should be on that site, let me know and I'll make it happen when I have five minutes to edit.
+
+I'm hosting that site on a server that is sitting in my living room, mostly because of rule .303.  It's not commercial grade and may sometimes go out.  
+
+Points of etiquette:  
+* Even though this group numbers in the twenties, we're very diverse . . . right and left, black and white, gay and straight, cis and trans, men and women, etc.  Please behave as though you are in mixed company because you are.
+* If you are going to make a reference in the group to something someone has said, please @ them.  The reason for this is that some of us may have others of us in their contacts, and the name may not line up.  For instance, you probably see me as Phreakiture, however, some of you will see my real name instead, because I'm in your contacts.  If you refer to people by the name you have in your contacts, others will not be able to follow the dots. 
+* Please try to keep the discussion on topic.  It's fine to banter and wander once in a while, but please keep it brief.  
+* Further to that, please try to keep the discussion apolitical.  There is an inevitable intersection between prepping and politics, and that's fair game, but discussing candidates or politicians more generally is probably not the greatest idea.  There are other forums for that, and many members of this group are members of those groups as well, and could invite you in if you like.
+
+Anyway, glad to have you aboard; I'm sure the others will make themselves known as the discussion unfolds.  There's no format to the discussion; if you want to share something, share; if you want to ask something, ask.
 

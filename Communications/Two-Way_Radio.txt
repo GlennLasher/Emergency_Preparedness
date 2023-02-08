@@ -9,3 +9,10 @@ Created Monday 26 December 2022
 [[+Personal Radio Services]]
 [[+Using ham radios for other purposes]]
 [[+Technical topics]]
+
+Contributed external articles
+
+[[https://swling.com/blog/2022/02/jock-explores-the-essential-listening-post-part-ii-when-the-lights-go-out/|Jock explores “The Essential Listening Post Part II – When the lights go out”]]
+[[https://swling.com/blog/2022/04/guest-post-everyone-should-have-a-crisis-radio/|Guest Post: Everyone should have a “Crisis Radio”]]
+[[https://swling.com/blog/2022/06/the-fertilizer-hits-the-fan-radio-kit/|The fertilizer hits the fan radio kit]]
+[[https://swling.com/blog/2022/02/jock-shares-a-bit-more-about-noaa-weather-radio/|Jock shares: “A bit more about NOAA Weather Radio”]]
