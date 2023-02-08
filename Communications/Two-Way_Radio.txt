@@ -16,3 +16,7 @@ Contributed external articles
 [[https://swling.com/blog/2022/04/guest-post-everyone-should-have-a-crisis-radio/|Guest Post: Everyone should have a “Crisis Radio”]]
 [[https://swling.com/blog/2022/06/the-fertilizer-hits-the-fan-radio-kit/|The fertilizer hits the fan radio kit]]
 [[https://swling.com/blog/2022/02/jock-shares-a-bit-more-about-noaa-weather-radio/|Jock shares: “A bit more about NOAA Weather Radio”]]
+
+Books
+
+[[https://www.kc2idf.com/media/Arey,_TJ_Skip-Radio_Monitoring_The_How_To_Guide.pdf|Arey, TJ "Skip"; Radio Monitoring: The How-To Guide]] (CC-BY-NC)
