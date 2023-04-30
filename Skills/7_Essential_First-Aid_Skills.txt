@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-04-29T14:22:55-04:00
+
+====== 7 Essential First-Aid Skills ======
+Created Saturday 29 April 2023
+
+[ ] Stop bleeding
+[ ] CPR
+[ ] Check for choking and provide assistance
+[ ] Recognize and treat hyperthermia (overheating not hypothermia)
+[ ] Recognize and treat hypothermia
+[ ] Revive a drowning victim
+[ ] Treat a burn
+

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2023-04-29T13:46:16-04:00
 
 ====== 21 Things to keep in your home ======
@@ -11,7 +11,7 @@ Created Saturday 29 April 2023
 [ ] Water - 1 Gallon per person per day for 3 days
 [ ] Physical copies of important documents
 [ ] Food enough for 3 days
-[ ] First Aid Kit (include N95 respirators)
+[ ] First Aid Kit (include N95 masks)
 [ ] Extra cell phone charger
 [ ] Extra personal hygiene items (soap, toothpaste, toothbrush, hand sanitizers, bleach)
 [ ] Cash
