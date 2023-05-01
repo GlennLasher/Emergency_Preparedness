@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2023-04-30T12:02:00-04:00
+
+====== NOAA Weather Broadcasts ======
+Created Sunday 30 April 2023
+
+===== Overview =====
+The National Weather Service (NWS), which is part of the National Oceanic and Atmospheric Administration (NOAA), operates a network of radio stations across the country that broadcast in narrow FM on seven different frequencies.  The Canadian counterpart is called Weatheradio Canda, and broadcasts in English and French; the Mexican counterpart, called SARMEX broadcasts in Spanish, and there are also two English-language Caribbean stations based in Bermuda.
+
+The mode and frequency choice was made to make these easy to incorporate into marine-band radios.  In addition, they can be received on any police scanner and most 2m-capable ham radios.
+
+===== Frequency list =====
+The seven frequencies are:
+
+'''
+162.400
+162.425
+162.450
+162.475
+162.500
+162.525
+162.550
+'''
+
+There are channel numbers associated with these, but they don't go in order and are hardly ever used, so not really worth making yourself familiar with.  
+
+===== Basic alert capability =====
+Generic radios, such as a scanner or ham radio will not have the ability to receive this, however, some purpose-built weather radios have the ability to receive a wake-up signal from the NOAA broadcasts, which will turn the radio on in the event of an emergency in the coverage area of whatever station it is monitoring.  
+
+===== SAME alert capability =====
+Building on the basic alert capability, some weather radios can use a system called SAME, which stands for Specific Area Message Encoding.  This is an extended alerting system in which the wake-up signal includes information about the specific area or areas of a station's coverage area are affected by an emergency alert, as well as information about the nature of the emergency.  
