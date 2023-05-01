@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2022-12-27T19:30:46-05:00
 
 ====== Repeaters ======
@@ -23,7 +23,7 @@ In most services in the UHF low band, the input and output frequencies are 5 MHz
 
 In services in the VHF high band, the input and output frequencies are not well defined.  In ham radio usage, the input will be 0.600 MHz above the output for outputs above 147.000, and 0.600 below the output for frequencies below 147.000.  Repeaters actually //on// 147.000 may go either way, however, the two I've personally encountered (Saratoga Springs, NY and Tulsa, OK) both had the input below the output.
 
-Only ham radio permits repeaters in lower frequencies than that; those arrangements will be discussed elsewhere.
+Ham radio permits repeaters in lower frequencies than that.  For the 6m band (50-54 MHz), repeater inputs are usually 500 kHz below, so a repeater on 53.83 will have its input on 53.33.  For the 10m band (28-29.7 MHz), repeater inputs are usually 100 kHz below, so a repeater on 29.66 will have its input on 29.56.
 
 Communications not involving a repeater, in which signals go directly from one radio to another, are called [[Simplex]].
 
