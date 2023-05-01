@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2022-12-27T19:44:15-05:00
 
 ====== Simplex ======
@@ -9,4 +9,4 @@ Simplex is a fancy word for communications that go directly from one radio to an
 
 Simplex communications require that there either be a clear line of sight between radios, or one of several propagation phenomena enhancing the range of the radio.  
 
-In most cases, simplex communications on VHF-high band and higher are very short-range.  VHF-low band and HF, however, have sufficient range for simplex to be very usable.
+In most cases, simplex communications on VHF-high band and higher are very short-range.  VHF-low band and HF, however, have sufficient range for simplex to be very usable over long distances.
