@@ -31,9 +31,10 @@ Antenna dimensions:
 	Five eighths wave: 16"
 
 Power:
-	Main channels: 50 W
-	Repeater inputs: 50 W
-	Interstitials: 5 W
+	Main channels: 50 W TPO
+	Repeater inputs: 50 W TPO
+	Lower Interstitials: 5 W ERP
+	Upper interstitials: 500 mW ERP
 	
 RF Bandwidth:
 	Channels 1-7, 15-22: 25 kHz
