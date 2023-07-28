@@ -28,8 +28,8 @@ Antenna dimensions:
 	Five eighths wave: 16"
 
 Power: 
-	Channels 8-14: 500 mW
-	All other channels: 2 W
+	Channels 8-14: 500 mW ERP
+	All other channels: 2 W ERP
 
 RF Bandwidth: 12.5 kHz
 

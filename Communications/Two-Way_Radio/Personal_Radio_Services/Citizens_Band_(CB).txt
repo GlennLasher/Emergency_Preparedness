@@ -15,12 +15,13 @@ Advantages:
 	
 Disadvantages:
 	Antennas can be quite large
-	Doesn't work well as a handheld
+	Handheld units do not work as well as they do on other, shorter-wavelength services.
 	Most common mode is AM.  Most radios only operate in AM.
 	
 Modes:  AM, USB, LSB, FM
 
 Antenna dimensions:
+	Wavelength: 11m (±10cm)
 	Quarter wave: 9'
 	Five eighths wave: 22' 8"
 
@@ -30,8 +31,7 @@ Power:
 	USB, LSB: 12W PEP
 	
 RF Bandwidth:
-	AM: 8 kHz
-	FM: 10 kHz
+	AM, FM: 8 kHz
 	USB, LSB: 4 kHz
 	
 Available channels:
