@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2022-12-26T23:15:11-05:00
 
 ====== Family Radio Service (FRS) ======
@@ -12,13 +12,14 @@ Advantages:
 	Radios can often run on AA or even AAA batteries
 	Mode is FM
 	Generally supports CTCSS and sometimes DCS to keep radios quiet when other groups may be using the channel
-	Can interoperate with GMRS on channels 1-7 and 15-22.
+	Can interoperate with GMRS.
 	
 Disadvantages:
 	Very limited range
 	No culture of interaction between groups
 	Marketing hype and often outright lies about channels and range
-	Range may be especially limited in wooded areas due to UHF not passing through foliage easily.
+	Range may be especially limited in wooded areas due to UHF not passing through foliage easily
+	Hand-held radios only
 
 Mode: FM
 

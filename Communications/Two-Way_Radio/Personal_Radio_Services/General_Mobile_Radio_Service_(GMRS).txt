@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2022-12-26T23:37:52-05:00
 
 ====== General Mobile Radio Service (GMRS) ======
@@ -37,8 +37,8 @@ Power:
 	Upper interstitials: 500 mW ERP
 	
 RF Bandwidth:
-	Channels 1-7, 15-22: 25 kHz
 	Channels 8-14: 12.5 kHz
+	All other channels: 25 kHz
 
 Available channels:
 	Simplex: 22
@@ -46,11 +46,12 @@ Available channels:
 	
 Frequency listing (MHz):
 
+'''
 	**Lower interstitial channels**
 		Radio types:  Mobile, Base, Handheld
 		Maximum power:  5 W ERP
-		Removable antennas permitted
 		Bandwidth:  25 kHz
+'''
 		
 	'''
 	Channel Frequency
@@ -63,11 +64,12 @@ Frequency listing (MHz):
 	 7      462.7125
 	'''
 	
+'''
 	**Upper interstitial channels**
 		Radio types:  Handheld
 		Maximum power:  500 mW ERP
-		Removable antennas prohibited
 		Bandwidth:  12.5 kHz
+'''
 	
 	'''
 	Channel Frequency
@@ -80,42 +82,22 @@ Frequency listing (MHz):
 	14      467.7125
 	'''
 	
+'''
 	**Main group**
 		Radio types:  Mobile, Base, Handheld, Repeater
 		Maximum power:  50 W TPO
-		Removable antennas permitted
 		Bandwidth:  25 kHz
+'''
 
 	'''
 	Channel Simplex Frequency Repeater input
 	15      462.5500          467.5500
-	'''
-
-	'''
 	16      462.5750          467.5750
-	'''
-
-	'''
 	17      462.6000          467.6000
-	'''
-
-	'''
 	18      462.6250          467.6250
-	'''
-
-	'''
 	19      462.6500          467.6500
-	'''
-
-	'''
 	20      462.6750          467.6750
-	'''
-
-	'''
 	21      462.7000          467.7000
-	'''
-
-	'''
 	22      462.7125          467.7125
 	'''
 
