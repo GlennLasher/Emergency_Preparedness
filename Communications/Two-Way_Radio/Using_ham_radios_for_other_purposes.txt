@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2022-12-27T18:32:02-05:00
 
 ====== Using ham radios for other purposes ======
@@ -10,6 +10,8 @@ Many models of ham radio are easily modified to extend their frequency coverage.
 From a technical perspective, open radios can be utilized in other services.
 
 From a legal perspective, this is not generally legal.  There are exceptions.  For instance, a JetStream JT-270M is legal to use as a business radio, if programmed correctly.
+
+It is also worth noting that a ham radio cannot be expected to meet the technical expectations of other services.  It may, but it very weill may not.  I have taken some measurements of the six radios that I own, and I found that the audio frequency responses for the four that are intended as ham radios (a Baofeng, a Yaesu, an Icom and a TYT) were wider than would be normal for a land-mobile radio, with the Yaesu having the widest audio.  The two that I have that are LMR type accepted, a Tytera and a JetStream, have clean, tight, narrow audio.
 
 I will not advise you to use a ham radio in this fashion, nor will I advise you not to.  That's a personal decision and a matter of personal responsibility.  
 
